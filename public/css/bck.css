@@ -1,0 +1,14 @@
+body{
+    background-color: #000;
+}
+
+.table-light{
+    background-color: #025500;
+    -webkit-text-fill-color: #fff;
+}
+
+.h1{
+    font-family: 'Poppins', sans-serif;
+    max-height: 100vh;
+}
+
